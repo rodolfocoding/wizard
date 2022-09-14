@@ -1,6 +1,6 @@
 # Wizard Web Scraper
 
-[![Wolf|Dev](https://drive.google.com/file/d/1G86M5YEXxAvviYj4hchh7AsSdsm8WHIZ/view?usp=sharing)]
+[![Wolf|Dev](https://ibb.co/KyfZ9N6)]
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
